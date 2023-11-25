@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/dp_80"
+    android:layout_height="@dimen/dp_80"
+    android:src="@drawable/ic_close_white"
+    android:scaleType="centerInside"
+    android:elevation="@dimen/dp_2"
+    android:background="@drawable/trash_bg"/>
